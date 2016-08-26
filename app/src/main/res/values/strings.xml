@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Roll the dice</string>
+    <string name="dice_6sided">6 sided dice</string>
+    <string name="dice_20sided">20 sided dice</string>
+    <string name="error">Error !!</string>
+    <string name="roll">Roll the dice...</string>
+</resources>

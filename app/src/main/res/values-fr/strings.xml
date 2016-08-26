@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lancez les dés</string>
+    <string name="dice_6sided">Dé à 6 faces</string>
+    <string name="dice_20sided">Dé à 20 faces</string>
+    <string name="error">Erreur !!</string>
+    <string name="roll">Lancer le dé...</string>
+</resources>
